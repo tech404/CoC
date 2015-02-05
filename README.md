@@ -31,7 +31,7 @@ Here is a list of people who are current owners and admins for the group. If you
 Aaron Feng (<aaron@forty9ten.com>), Andy Lindeman, Patrick Van Stee, Randall McPherson, J Cornelius
 
 # Admins:
-Michael Langford , John Dyer
+Michael Langford (<michael.langford@gmail.com>) , John Dyer
 
 
 
