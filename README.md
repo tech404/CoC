@@ -18,9 +18,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 # Admins
 
-If you have any issues or need help, please feel free to reach out to anyone on this list.
-
-## Owners
+If you have any issues or need help, please feel free to reach out to anyone on this list:
 
 * Aaron Feng (<aaron@forty9ten.com>)
 * Andy Lindeman
