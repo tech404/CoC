@@ -24,11 +24,11 @@ If you have any issues or need help, please feel free to reach out to anyone on 
 
 * Aaron Feng (<aaron@forty9ten.com>)
 * Andy Lindeman
+* J Cornelius
+* John Dyer
+* Michael Langford
 * Patrick Van Stee
 * Randall McPherson
-* J Cornelius
-* Michael Langford
-* John Dyer
 
 ## Role of Admins
 
