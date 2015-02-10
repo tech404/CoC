@@ -24,7 +24,9 @@ If you have any issues or need help, please feel free to reach out to anyone on 
 * Andy Lindeman
 * J Cornelius
 * John Dyer
+* Kylie Stradley (<ky@kyfast.net>)
 * Michael Langford
+* Pamela O. Vickers (<pwnela@gmail.com>)
 * Patrick Van Stee
 * Randall McPherson
 
