@@ -1,10 +1,10 @@
-# tech404 Code of Conduct
+# tech256 Code of Conduct
 
-All participants in the tech404 chat are expected to follow the code of conduct. Administrators will enforce this code.
+All participants in the tech256 chat are expected to follow the code of conduct. Administrators will enforce this code.
 
 # The Quick Version
 
-tech404 is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
+tech256 is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
 
 # The Less Quick Version
 
@@ -20,15 +20,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you have any issues or need help, please feel free to reach out to anyone on this list:
 
-* Aaron Feng (<aaron@forty9ten.com>)
-* Andy Lindeman
-* J Cornelius
-* John Dyer
-* Kylie Stradley (<ky@kyfast.net>)
-* Michael Langford
-* Pamela O. Vickers (<pwnela@gmail.com>)
-* Patrick Van Stee
-* Randall McPherson
+* [Jay Hayes](github.com/iamvery)
 
 ## Role of Admins
 
