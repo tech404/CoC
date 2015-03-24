@@ -20,7 +20,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you have any issues or need help, please feel free to reach out to anyone on this list:
 
-* [Jay Hayes](github.com/iamvery)
+* [Jay Hayes](https://twitter.com/iamvery)
+* [Bryan Powel](https://twitter.com/bryanp)
 
 ## Role of Admins
 
