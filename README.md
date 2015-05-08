@@ -3,6 +3,9 @@
 All participants in the tech256 chat are expected to follow the code of
 conduct. Administrators will enforce this code.
 
+User accounts shall not be shared and shall represent individuals as
+themselves.
+
 # The Quick Version
 
 tech256 is dedicated to providing a harassment-free experience for everyone,
