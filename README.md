@@ -4,7 +4,7 @@ All participants in the tech404 chat are expected to follow the code of conduct.
 
 # The Quick Version
 
-tech404 is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
+tech404 is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Explicit sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
 
 # The Less Quick Version
 
