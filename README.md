@@ -38,6 +38,7 @@ If you have any issues or need help, please feel free to reach out to anyone on 
 * [Jay Hayes](https://twitter.com/iamvery)
 * [Bryan Powel](https://twitter.com/bryanp)
 * [Michael Carroll](https://twitter.com/carromj)
+* [Britany Meadows](https://twitter.com/letbritcode)
 
 ## Role of Admins
 
