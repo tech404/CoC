@@ -25,7 +25,12 @@ events, and unwelcome sexual attention.
 Participants asked to stop any harassing behavior are expected to comply
 immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have
+Group notifications (such as `@channel` and `@here`) may only be used by admins and channel "owners".
+An "owner" is an individual responsible in some way for the organization of the channel.
+For e.g. @jackbower might @channel #ctu of an attempt on @davidpalmer's life.
+Enforcement of this is at the pure disgression of the admins.
+
+If you are being harassed, notice that someone else is being harassed, have a problem with notifications, or have
 any other concerns, please notify an administrator immediately, or email
 <report@tech256.com>.
 
