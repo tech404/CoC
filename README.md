@@ -28,7 +28,7 @@ immediately.
 Group notifications (such as `@channel` and `@here`) may only be used by admins and channel "owners".
 An "owner" is an individual responsible in some way for the organization of the channel.
 For e.g. @jackbauer might @channel #ctu of an attempt on @davidpalmer's life.
-Enforcement of this is at the pure disgression of the admins.
+Enforcement of this is at the pure discretion of the admins.
 
 If you are being harassed, notice that someone else is being harassed, have a problem with notifications, or have
 any other concerns, please notify an administrator immediately, or email
