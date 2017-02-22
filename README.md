@@ -16,16 +16,8 @@ If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, please notify an administrator immediately, or email
 <feedback.tech404@gmail.com>.
 
-[This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit)]
 
 # Admins
-
-<<<<<<< HEAD
-# Admins:
-Michael Langford (<michael.langford@gmail.com>) , John Dyer
-=======
-If you have any issues or need help, please feel free to reach out to anyone on this list:
->>>>>>> d0d834aafb8ce4beb7ff4f3d5ad115777a8cbd65
 
 * Aaron Feng (<aaron@forty9ten.com>)
 * Andy Lindeman
@@ -41,3 +33,6 @@ If you have any issues or need help, please feel free to reach out to anyone on 
 * Have rights in the system tied to the admin role.
 * Set adhoc policy to resolve immeadiate disputes.
 * Close discussion of meta-items.
+
+[This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit)]
+
