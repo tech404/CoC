@@ -20,7 +20,6 @@ any other concerns, please notify an administrator immediately, or email
 # Admins
 
 * Aaron Feng (<aaron@forty9ten.com>)
-* Andy Lindeman
 * John Dyer
 * Michael Langford
 * Patrick Van Stee
