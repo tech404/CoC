@@ -43,9 +43,9 @@ Please reach out to one of the moderators if you believe your link was misinterp
 
 If you have any issues or need help, please feel free to reach out to anyone on this list:
 
-* [Jay Hayes](https://twitter.com/iamvery)
-* [Michael Carroll](https://twitter.com/carromj)
-* [Britany Meadows](https://twitter.com/letbritcode)
+* [Jay Hayes](https://twitter.com/iamvery) (`@jay`)
+* [Michael Carroll](https://twitter.com/carromj) (`@mjcarrol`)
+* [Britany Meadows](https://twitter.com/letbritcode) (`@britany`)
 
 ## Role of Admins
 
