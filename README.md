@@ -34,15 +34,18 @@ If you are being harassed, notice that someone else is being harassed, have a pr
 any other concerns, please notify an administrator immediately, or email
 <report@tech256.com>.
 
+Spam or malicious links are prohibited and will be deleted.
+Please reach out to one of the moderators if you believe your link was misinterpreted as spam or malicious.
+
 [This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit)]
 
 # Admins
 
 If you have any issues or need help, please feel free to reach out to anyone on this list:
 
-* [Jay Hayes](https://twitter.com/iamvery)
-* [Michael Carroll](https://twitter.com/carromj)
-* [Britany Meadows](https://twitter.com/letbritcode)
+* [Jay Hayes](https://twitter.com/iamvery) (`@jay`)
+* [Michael Carroll](https://twitter.com/carromj) (`@mjcarroll`)
+* [Britany Meadows](https://twitter.com/letbritcode) (`@britany`)
 
 ## Role of Admins
 
